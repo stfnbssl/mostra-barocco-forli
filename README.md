@@ -2,7 +2,7 @@
 
 Materiali per la visita alla mostra **"Barocco. Il Gran Teatro delle Idee"** ai Musei San Domenico di Forlì (21 febbraio – 28 giugno 2026).
 
-Sito pubblicato: **<URL_SITO>**
+Sito pubblicato: **[<URL_SITO>](https://stfnbssl.github.io/mostra-barocco-forli/)**
 
 ## Contenuto
 
